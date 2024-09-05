@@ -28,8 +28,15 @@ body {
   }
   
 .img2 {
-    width: 200px;
-    height: 200px;
+    width: 400px;
+    height: 400px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease;
+    margin: 0 auto;
+}
+
+.img2:hover {
+    transform: scale(1.1);
 }
 
 .video-container {
