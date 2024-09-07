@@ -22,5 +22,13 @@ let filmesDados = [
         imagem: "imagem3.jpg",
         anoqueLancou: 2004,
         link: "https://www.youtube.com/embed/BjJcYdEOI0k"
+    },
+    {
+        nome: "Traição e Desejo (Trust)",
+        descricao: " Trust conta a história de um casal bem sucedido de Nova Iorque, Owen Shore, um jornalista, e Brooke Gatwick, que está para abrir sua galeria de arte. A vida do cadal corre bem, até quando Ansgar, um artista sedutor começa a flertar com Brooke, causando um ciúme intenso em Owen. O longa traz uma sensação de mistério que um filme de assassinato traria, traz o drama de um filme de suspense e um romance real. Eu, honestamente, não esperava o decorrer do filme, a forma que a Amy, na verdade era uma \"agente\" contratada pela Brooke para flertar com o Owen e, honestamente, não esperava que ela voltaria com ele após a traição, se é que voltou, porque eu não entendi o final. O filme tinha tudo pra ser bom, um elenco bom, uma trilha sonora envolvente, uma trama boa, mas teve um final preguiçoso. As vezes o telespectador não quer ter que imaginar o final, e em filmes assim, esse é o caso. De qualquer forma, eu amei ver a Kat McNamara e o Matthew Daddario trabalhando juntos depois de Shadowhunters.",
+        genero: "romance suspense drama",
+        imagem: "imagem4.jpg",
+        anoqueLancou: "2021",
+        link: "https://www.youtube.com/embed/LC_od4Aedt0"
     }
 ];
